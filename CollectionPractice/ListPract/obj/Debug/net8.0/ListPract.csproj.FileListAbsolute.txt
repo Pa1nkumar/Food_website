@@ -1,0 +1,14 @@
+C:\Users\PASKUMAR\Desktop\c# practise\CollectionPractice\ListPract\bin\Debug\net8.0\ListPract.exe
+C:\Users\PASKUMAR\Desktop\c# practise\CollectionPractice\ListPract\bin\Debug\net8.0\ListPract.deps.json
+C:\Users\PASKUMAR\Desktop\c# practise\CollectionPractice\ListPract\bin\Debug\net8.0\ListPract.runtimeconfig.json
+C:\Users\PASKUMAR\Desktop\c# practise\CollectionPractice\ListPract\bin\Debug\net8.0\ListPract.dll
+C:\Users\PASKUMAR\Desktop\c# practise\CollectionPractice\ListPract\bin\Debug\net8.0\ListPract.pdb
+C:\Users\PASKUMAR\Desktop\c# practise\CollectionPractice\ListPract\obj\Debug\net8.0\ListPract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PASKUMAR\Desktop\c# practise\CollectionPractice\ListPract\obj\Debug\net8.0\ListPract.AssemblyInfoInputs.cache
+C:\Users\PASKUMAR\Desktop\c# practise\CollectionPractice\ListPract\obj\Debug\net8.0\ListPract.AssemblyInfo.cs
+C:\Users\PASKUMAR\Desktop\c# practise\CollectionPractice\ListPract\obj\Debug\net8.0\ListPract.csproj.CoreCompileInputs.cache
+C:\Users\PASKUMAR\Desktop\c# practise\CollectionPractice\ListPract\obj\Debug\net8.0\ListPract.dll
+C:\Users\PASKUMAR\Desktop\c# practise\CollectionPractice\ListPract\obj\Debug\net8.0\refint\ListPract.dll
+C:\Users\PASKUMAR\Desktop\c# practise\CollectionPractice\ListPract\obj\Debug\net8.0\ListPract.pdb
+C:\Users\PASKUMAR\Desktop\c# practise\CollectionPractice\ListPract\obj\Debug\net8.0\ListPract.genruntimeconfig.cache
+C:\Users\PASKUMAR\Desktop\c# practise\CollectionPractice\ListPract\obj\Debug\net8.0\ref\ListPract.dll
